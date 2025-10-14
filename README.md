@@ -1,0 +1,1 @@
+Esse projeto tem como objetivo reunir as coleções de skins das armas do jogo Valorant separadas em diferentes seções para facilitar e dinamizar a visualização das coleções. Com esse propósito, ele foi construído com as linguagens TypeScript, JavaScript, HTML e CSS.
